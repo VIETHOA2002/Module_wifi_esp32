@@ -6,3 +6,5 @@ Nó là sự kế thừa của vi điều khiển NodeMCU ESP8266 phổ biến v
 
 ESP32 cũng được thiết kế để tiêu thụ điện năng thấp, lý tưởng cho các ứng dụng chạy bằng pin. Nó có hệ thống quản lý năng lượng cho phép nó hoạt động ở chế độ ngủ và chỉ thức dậy khi cần thiết, điều này có thể kéo dài tuổi thọ pin rất nhiều.
 <img width="1172" height="635" alt="image" src="https://github.com/user-attachments/assets/9043db7f-bf29-4c39-9178-041ac130debb" />
+<img width="1406" height="756" alt="image" src="https://github.com/user-attachments/assets/9de6ecb2-e5f6-419a-88b2-09929d263848" />
+<img width="1424" height="759" alt="image" src="https://github.com/user-attachments/assets/683d03d4-f109-46a7-b42c-7223c8036b30" />
